@@ -1,6 +1,6 @@
 # ReassembleTextFragments
 
- A project that reassembles a given set of text fragments into their original sequence.
+ A project that reassembles a given set of text fragments separated by semicolon into their original sequence.
 
 **example of possible text fragments:**
 
